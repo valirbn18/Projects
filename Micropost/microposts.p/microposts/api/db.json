@@ -1,0 +1,14 @@
+{
+  "posts": [
+    {
+      "title": " Aprofundare JS",
+      "body": " - Citit carti\n  -Exersat sintaxa\n -Creare aplicatii",
+      "id": 1
+    },
+    {
+      "title": "aaaa",
+      "body": "asfasfasfwea",
+      "id": 2
+    }
+  ]
+}

@@ -1,0 +1,10 @@
+.navigation {
+  display: flex;
+  justify-content: space-between;
+}
+.title {
+  text-align: center;
+}
+.container {
+  width: 50%;
+}

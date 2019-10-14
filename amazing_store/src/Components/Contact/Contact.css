@@ -1,0 +1,14 @@
+.contact-list li {
+  list-style: none;
+  display: inline;
+}
+.contact-list li a {
+  text-decoration: none;
+  color: rgba(99, 100, 216, 1);
+}
+.contact-list li i {
+  margin-right: 6px;
+}
+.contact-list li:not(:first-child) {
+  margin-left: 2.5rem;
+}

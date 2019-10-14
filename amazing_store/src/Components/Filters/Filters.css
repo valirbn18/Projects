@@ -1,0 +1,46 @@
+.pagination-filter {
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+  margin-top: 2rem;
+}
+.filter {
+  color: rgba(123, 123, 123, 1);
+  font-family: "Helvetica";
+  font-size: 12px;
+  display: inline;
+}
+.filter-text {
+  font-family: "Helvetica";
+  font-size: 12px;
+  color: rgba(99, 100, 216, 1);
+  text-align: left;
+  line-height: 16px;
+  display: inline;
+}
+
+.filter li:last-child {
+  background-color: red;
+  padding: 0;
+}
+
+.inline {
+  display: inline-block;
+}
+.description-number {
+  color: rgba(123, 123, 123, 1);
+}
+.description-content {
+  font-size: 27px;
+}
+.filter-space {
+  display: flex;
+  justify-content: space-between;
+}
+.inline-space {
+  display: inline-block;
+  padding-right: 1rem;
+}
+.break {
+  margin-top: 1rem;
+}

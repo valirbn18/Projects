@@ -1,0 +1,31 @@
+.products {
+  min-width: 10rem;
+  max-width: 23%;
+  border: solid 1px;
+  border-color: rgba(121, 121, 121, 0.05);
+  box-shadow: 0px 2px 7px 4px rgba(121, 121, 121, 0.05);
+  margin-bottom: 10px;
+  margin-top: 22px;
+}
+.description-product {
+  text-align: center;
+  font-family: "Helvetica";
+}
+.description-price {
+  font-family: "Helvetica";
+  font-size: 15px;
+  color: rgba(248, 203, 0, 1);
+  text-align: center;
+  padding: 1rem 1rem;
+}
+.photo-products {
+  width: 100%;
+}
+.cart-hover {
+  margin-left: 25%;
+  margin-bottom: 1rem;
+  border-radius: 2px;
+  outline: none;
+  border: none;
+  font-size: 14px;
+}

@@ -1,0 +1,19 @@
+.fa-search {
+  color: #888;
+  vertical-align: middle;
+  position: absolute;
+  top: 50%;
+  transform: translateY(-50%);
+  left: 10px;
+}
+.searchBar {
+  width: 75%;
+  position: relative;
+}
+.searchBar input {
+  width: 100%;
+  padding: 12px 30px;
+  border-radius: 3px;
+  border: none;
+  outline: none;
+}
